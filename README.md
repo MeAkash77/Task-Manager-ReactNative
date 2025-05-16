@@ -341,23 +341,7 @@ In the near future, if I have more time, I would love to implement the following
 - **Task Search & Filtering:** Implement search and filter options for tasks.
 - **Task Priority:** Add priority levels for tasks.
 - **Enhanced Branding:** Improve the app's branding with a custom logo, color scheme, and typography, in line with the TaskNexus theme.
-
-These features would make TaskNexus similar to another app of mine - [CollabNote](https://github.com/hoangsonww/CollabNote-Fullstack-App),
 which is a full-stack web application for collaborative note-taking with user authentication, real-time updates, and more - but in a mobile app format.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions, feedback, or suggestions, please contact:
-
-- **Name:** Son Nguyen
-- **Email:** [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com)
-- **GitHub:** [@hoangsonww](https://github.com/hoangsonww)
-
----
 
 **Thank you for checking out TaskNexus - Task Manager React Native App! 🚀📲**
 
