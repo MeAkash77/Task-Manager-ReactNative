@@ -183,7 +183,7 @@ TaskNexus is built using a modern tech stack that includes both core and third-p
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/Task-Manager-ReactNative.git
+git clone https://github.com/MeAkash77/Task-Manager-ReactNative.git
 cd Task-Manager-ReactNative
 ```
 
